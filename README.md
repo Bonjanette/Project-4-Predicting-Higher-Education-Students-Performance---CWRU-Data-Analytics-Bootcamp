@@ -1,6 +1,6 @@
 # Project 4 Predicting Higher Education Students' Performance
 
-This project uses ML to predict whether students will have a good or bad final grade on specifid university classes based on personal characteristics, family characteristics, and education habits. Predicting which students would likely have a poor outcome would allow educators and advisors to target those students with extra services or opportunities to help them succeed.
+This project uses ML to predict whether students will have a good or bad final grade on specific university classes based on personal characteristics, family characteristics, and education habits. Predicting which students would likely have a poor outcome would allow educators and advisors to target those students with extra services or opportunities to help them succeed.
 
 The dataset is entitled "Higher Education Students Performance Evaluation" made available by the Faculty of Engineering and the Faculty of Educational Sciences students in 2019 and was acquired from the UC Irvine Machine Learing Repository (https://archive.ics.uci.edu/dataset/856/higher+education+students+performance+evaluation). This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. Citation: Yilmaz,Nevriye and Şekeroğlu,Boran. (2023). Higher Education Students Performance Evaluation. UCI Machine Learning Repository. https://doi.org/10.24432/C51G82.
 
